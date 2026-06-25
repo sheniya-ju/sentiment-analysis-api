@@ -1,0 +1,8 @@
+Artificial Intelligence is the simulation of human intelligence by machines.
+Machine Learning is a subset of AI that allows systems to learn from data.
+Deep Learning uses neural networks with many layers to learn complex patterns.
+Natural Language Processing enables machines to understand human language.
+RAG stands for Retrieval Augmented Generation. It combines retrieval systems with LLMs.
+FastAPI is a modern Python web framework for building REST APIs quickly.
+ChromaDB is an open source vector database used for storing embeddings.
+Embeddings are numerical representations of text used for similarity search.
